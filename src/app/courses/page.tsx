@@ -31,7 +31,7 @@ function page() {
           rotateZ={-10}
           className="w-full mt-4"
         >
-          <Image
+          <img
             src={course.image}
             height="1000"
             width="1000"
